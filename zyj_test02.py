@@ -5,4 +5,8 @@
 import random
 import string
 
-print(111)
+result =[]
+for i in range(1,10):
+
+    print("add ",i,"no", i)
+
